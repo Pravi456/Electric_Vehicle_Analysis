@@ -1,6 +1,6 @@
-📘 README: Electric Vehicle Analysis (Power BI Project)
-🚗 Project Title
-Electric Vehicle Analysis
+
+# 🚗 Project Title
+# Electric Vehicle Analysis
 
 🧩 Overview
 This Power BI report provides a comprehensive analysis of electric vehicle (EV) data to uncover trends, patterns, and insights that support data-driven decision-making in the EV industry. It is designed for stakeholders, analysts, and policymakers interested in understanding the dynamics of EV adoption, infrastructure, performance, and market share.
